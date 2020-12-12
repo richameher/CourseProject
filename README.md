@@ -80,7 +80,7 @@ hotel dataset has ratings (map ratings to sentiments first)
 
 In the Wordcloud we can observe that people tend to talk about the quality of rooms. Features like safety is usually associated with the hotels than Airbnbs. Also Hotels have their own website , so people also talk about the online booking system. As for the bar plot, we can see that hotels have “theft”, “suite” aspects that have been associated with negative sentiment. Also the highest positive sentiment is observed among aspects like “room”, “view” and “manager” 
 
-#####(Note- we can also observe the sentiment probability on y-axis instead of topic extent, Check Test.ipynb)
+##### (Note- we can also observe the sentiment probability on y-axis instead of topic extent, Check Test.ipynb)
 
 ### Contribution
 

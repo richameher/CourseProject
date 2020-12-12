@@ -11,24 +11,34 @@
 
 ### Data Folder contains 
 
-1. preprocess_airbnb.csv (Airbnb data with necesaary n-grams to be used for topic extraction and sentiment analysis)
+1. preprocess_airbnb.csv (Airbnb data with necesaary n-grams extracted with source code  to be used for topic extraction and sentiment analysis)
 2. preprocess_hotel.csv (Hotel data with necesaary n-grams to be used for topic extraction and sentiment analysis)
 
 ### Complete documentation available in Project Documentation.pdf
 
 ### Software Implementation and Usage
 
-1. (Optional) Create a Python3 virtual environment  
-```python3 -m venv py3-env-final-proj``
+1. (Optional) Create a Python3 virtual environment
+  
+```python3 -m venv py3-env-final-proj```
+
 2. (Optional) Activate virtual environment
+
 ```source py3-env-final-proj/bin/activate``` 
 3. 
 ```pip install jupyter```
+
 4. Install ipykernel in this environment-  
+
 ```python3 -m ipykernel install --user —name=final-proj```
-  (final-proj will be used as env in jupter notebook)
-5. ```pip install -r requirements.txt```
+ 
+ (final-proj will be used as env in jupter notebook)
+
+5. 
+```pip install -r requirements.txt```
+
 6. Start Jupyter-notebook from shell using command :  
+
 ```jupyter notebook```
 7. Download repository and open the Test.ipynb file 
 8. Switch to final-proj kernel defined in step 4.

@@ -2,6 +2,9 @@
 
 ### Presentation and Tutorial Available at - https://mediaspace.illinois.edu/media/t/1_ammbs24f?st=0
 
+### Complete documentation available in
+Project Documentation.pdf
+
 ### Code folder contains 
 
 1. Final Project V4.ipynb  (whole source code)
@@ -13,9 +16,6 @@
 
 1. preprocess_airbnb.csv (Airbnb data with necesaary n-grams extracted with source code  to be used for topic extraction and sentiment analysis)
 2. preprocess_hotel.csv (Hotel data with necesaary n-grams to be used for topic extraction and sentiment analysis)
-
-### Complete documentation available in 
-Project Documentation.pdf
 
 ### You can view my ipynb notebooks directly using nbviewer
 https://nbviewer.jupyter.org/github/richameher/CourseProject/blob/main/code/Final_proj%20V4.html

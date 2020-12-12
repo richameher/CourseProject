@@ -26,7 +26,9 @@
 
 ```source py3-env-final-proj/bin/activate``` 
 
-#### 3. ```pip install jupyter```
+#### 3. 
+
+```pip install jupyter```
 
 #### 4. Install ipykernel in this environment-  
 

@@ -16,6 +16,9 @@
 
 ### Complete documentation available in Project Documentation.pdf
 
+### You can view my ipynb notebooks directly using nbviewer
+https://nbviewer.jupyter.org/github/richameher/CourseProject/blob/main/code/Final_proj%20V4.html
+
 ### Software Implementation and Usage
 
 #### 1. (Optional) Create a Python3 virtual environment
@@ -44,7 +47,7 @@
 
 ```jupyter notebook```
 
-#### 7. Download repository and open the Test.ipynb file 
+#### 7. Download this github repository and open the Test.ipynb file 
 
 #### 8. Switch to final-proj kernel defined in step 4.
 

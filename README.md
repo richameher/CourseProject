@@ -14,7 +14,8 @@
 1. preprocess_airbnb.csv (Airbnb data with necesaary n-grams extracted with source code  to be used for topic extraction and sentiment analysis)
 2. preprocess_hotel.csv (Hotel data with necesaary n-grams to be used for topic extraction and sentiment analysis)
 
-### Complete documentation available in Project Documentation.pdf
+### Complete documentation available in 
+Project Documentation.pdf
 
 ### You can view my ipynb notebooks directly using nbviewer
 https://nbviewer.jupyter.org/github/richameher/CourseProject/blob/main/code/Final_proj%20V4.html
@@ -69,13 +70,17 @@ hotel dataset has ratings (map ratings to sentiments first)
 
 ### Results 
 
+[Hotel Review Bigram WordCloud]
+
 ![alt text](https://github.com/richameher/CourseProject/blob/main/images/hotel_review_wordcloud.png)
+
+[Hotel Review Sentiment-Topic Extent Bar Plot]
 
 ![alt text](https://github.com/richameher/CourseProject/blob/main/images/Hotel_Aspectsentiment.png)
 
 In the Wordcloud we can observe that people tend to talk about the quality of rooms. Features like safety is usually associated with the hotels than Airbnbs. Also Hotels have their own website , so people also talk about the online booking system. As for the bar plot, we can see that hotels have “theft”, “suite” aspects that have been associated with negative sentiment. Also the highest positive sentiment is observed among aspects like “room”, “view” and “manager” 
 
-(Note- we can also observe the sentiment probability on y-axis instead of topic extent, Check Test.ipynb)
+#####(Note- we can also observe the sentiment probability on y-axis instead of topic extent, Check Test.ipynb)
 
 ### Contribution
 

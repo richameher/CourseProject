@@ -2,7 +2,8 @@
 
 ### Presentation and Tutorial Available at - https://mediaspace.illinois.edu/media/t/1_ammbs24f?st=0
 
-### Complete documentation available in
+### Complete documentation and self-evaluation available in
+
 Project Documentation.pdf
 
 ### Code folder contains 

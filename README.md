@@ -4,7 +4,7 @@
 
 1. Extract NN-ADJ bigrams
 2. Extract NN unigrams
-3. Extract top n-grams
+3. Extract top n-grams using TF-IDF
 4. Sentiment Anaysis on Reviews on Aspects (unigrams or bigrams)
 4. Visualize sentiments on keywords extracted using barplots/Wordcloud
  

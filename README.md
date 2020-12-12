@@ -1,5 +1,13 @@
 # CourseProject
 
+### Code can be used for Aspect-based Sentiment Analysis
+
+1. Extract NN-ADJ bigrams
+2. Extract NN unigrams
+3. Extract top n-grams
+4. Sentiment Anaysis on Reviews on Aspects (unigrams or bigrams)
+4. Visualize sentiments on keywords extracted using barplots/Wordcloud
+ 
 ### Presentation and Tutorial Available at - https://mediaspace.illinois.edu/media/t/1_ammbs24f?st=0
 
 ### Complete documentation and self-evaluation available in
